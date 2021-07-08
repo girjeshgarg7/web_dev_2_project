@@ -1,0 +1,38 @@
+.App{
+    font-family: sans-serif;
+    text-align: center;
+    color: #f1f2f6;
+}
+h1{
+    color: black;
+}
+body{
+    font-size: 1.2 rem;
+    background: #bdc3c7;
+    background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);
+    background: linear-gradient(to right, #2c3e50, #bdc3c7);
+    color: mediumspringgreen;
+}
+.result{
+    margin-top:20px;
+}
+.options{
+    cursor:pointer;
+    border: 2px solid black;
+    padding:10px;
+}
+.selected{
+    background: linear-gradient(to right, #74ebd5, #acb6e5) !important;
+}
+.btn{
+    margin-left: 700px;
+    border:orangered;
+    background-color: palegreen;
+    
+}
+.re{
+    text-align: center;
+    padding: 20px;
+    margin-left: 50px;
+    
+}
